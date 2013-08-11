@@ -1,0 +1,12 @@
+TEMPLATE = app
+TARGET = emssCOILTest
+QT += core
+HEADERS += 
+SOURCES += main.cpp
+FORMS += 
+RESOURCES += 
+LIBS += -lemssCore 
+win32:DEFINES          += _TTY_WIN_
+unix:DEFINES           += _TTY_POSIX_
+DESTDIR = ../bin
+LIBPATH = ../bin
