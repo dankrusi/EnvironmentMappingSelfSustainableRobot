@@ -1,12 +1,12 @@
 # Environment Mapping Self-Sustainable Robot #
 
+![Robots](http://imageshack.us/a/img832/184/nbr4.png)
+
 ## Summary ##
 
-emss is a C++ framework designed to support iRobot Create developers with a comprehensive set of Controllers, Tasks, Schedulers, Movement Trackers, et cetera. It allows interfacing with hardware or in an emulated environment and compiles on Linux, OS X, and Windows.
+EMSS is a C++ framework designed to support iRobot Create developers with a comprehensive set of Controllers, Tasks, Schedulers, Movement Trackers, et cetera. It allows interfacing with hardware or in an emulated environment and compiles on Linux, OS X, and Windows.
 
 ## Overview ##
-
-emss Interface running with several viewports and editors
 
 The emss iRobot Create Framework is a collection of interacting modules written in C++ designed to support iRobot Create developers with a comprehensive set of Controllers, Tasks, Schedulers, Movement Trackers, et cetera. The framework provides not only an interface with the iRobot Create hardware, but also a completely emulated interface which mimics the hardware in every sense. Along with core components for controlling the robot, the framework also features a set of GUI widgets for drawing maps and navigational paths as well as joysticks, control panels and more. The emss framework compiles on Linux, OS X, and Windows.
 
